@@ -1,0 +1,13 @@
+{
+  "name": "fe",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "devDependencies": {
+    "@playwright/test": "1.40.1",
+    "playwright": "1.40.1"
+  },
+  "type": "module",
+  "dependencies": {
+  }
+}
